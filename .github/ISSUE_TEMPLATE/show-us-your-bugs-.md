@@ -2,7 +2,7 @@
 name: Show us your bugs!
 about: RP Mk2 App beta test issue submission
 title: "[BUG]"
-labels: bug, critical bug
+labels: bug
 assignees: donshefer, RPNate1
 
 ---
