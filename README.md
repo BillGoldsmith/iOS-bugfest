@@ -12,7 +12,7 @@ Start by including a descriptive title and be sure to fill in all of the section
 Please include screen shots and error message when available.
 
 ### Questions?
-If you have any questions, please contact nate@radioparadise.com
+If you have any questions, please contact app-support@radioparadise.com
 
 ___
 **Thank you for taking the time to help us make the app better!**
