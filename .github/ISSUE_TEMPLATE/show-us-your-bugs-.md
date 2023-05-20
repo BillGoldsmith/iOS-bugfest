@@ -3,7 +3,7 @@ name: Show us your bugs!
 about: RP Mk2 App beta test issue submission
 title: "[Bug] Kitchen crashed unexpectedly while making sandwich"
 labels: bug
-assignees: RPNate1
+assignees: RPNate1, donshefer
 
 ---
 
